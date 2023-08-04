@@ -1,5 +1,4 @@
 replicaCount: 1
 image:
   pullPolicy: IfNotPresent
-  command: This is the changed text to display
-
+  command: UpdatedTest01
