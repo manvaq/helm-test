@@ -5,7 +5,7 @@
 ##  global -- Global params that are overwritten with umbrella chart
 global:
   ##  serviceAccountName -- Service Account name override
-  serviceAccountName: &service-account-name "JoseAntonio2" #"airbyte-admin"
+  serviceAccountName: &service-account-name "test-auto-sync" #"airbyte-admin"
   ##  deploymentMode -- Deployment mode, whether or not render the default env vars and volumes in deployment spec
   deploymentMode: "oss"
   edition: "community"
