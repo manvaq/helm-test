@@ -3,7 +3,7 @@ entries:
   airbyte:
   - apiVersion: v2
     appVersion: 0.44.4
-    created: "2023-08-04T14:36:33.604473+02:00"
+    created: "2023-08-07T07:50:17.032589+02:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -55,11 +55,11 @@ entries:
     version: 0.45.20
   busybox-mv:
   - apiVersion: v1
-    created: "2023-08-04T14:36:33.604675+02:00"
+    created: "2023-08-07T07:50:17.03281+02:00"
     description: A utility chart to verify clusters and processes
-    digest: d7cdbc5a2e3ef022732698b22d54c4896fc95f2a5ef80915b3bff99d0a764690
+    digest: dcec551e40a40244ce04edba37beb42939e13cbcf6b5f0cb2a36fe9053dfec37
     name: busybox-mv
     urls:
     - busybox-mv-0.1.1.tgz
     version: 0.1.1
-generated: "2023-08-04T14:36:33.588215+02:00"
+generated: "2023-08-07T07:50:17.011118+02:00"
