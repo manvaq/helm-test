@@ -1,4 +1,4 @@
 replicaCount: 1
 image:
   pullPolicy: IfNotPresent
-  command: UpdatedTest02
+  command: DaleMan
